@@ -1,5 +1,5 @@
-# Binary treee Lab8v16
-### struct Node ~ (film:name,gerne,studio,duration), 
+# Binary treee of films Lab8v16
+### Film ~ struct Node (name,gerne,studio,duration), 
 
 ### insert by name of film, 
 ```
@@ -18,4 +18,8 @@
 ```
 b.searchByGerne("Adventure");
 ```
+### Task
+вставка вузла за назвою;
+вилучення всіх фільмів вказаної студії;
+вивід всіх фільмів вказаного жанру
 
