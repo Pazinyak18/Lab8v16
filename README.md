@@ -1,7 +1,12 @@
 # Binary treee of films Lab8v16
-### Film ~ struct Node (name,gerne,studio,duration), 
+# To run
+```
+g++ main.cpp -o bTreeOfFilms
+./bTreeOfFilms
+```
+# Film ~ struct Node (name,gerne,studio,duration), 
 
-### insert by name of film, 
+### Insert by name of film, 
 ```
     Btree b;
     b.insert("ARCADE","Adventure","Holy",2.23);
